@@ -1,0 +1,35 @@
+body{
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(111, 255, 131);
+    background: url('corinthians.png') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.foto{
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(192, 158, 158);
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 460px;
+    width: 320px;
+    background: transparent;
+    backdrop-filter:  blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: var(--color-white);
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+P{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+h1{
+    color: rgb(214, 26, 26);
+    text-align: center;
+}
